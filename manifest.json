@@ -9,6 +9,13 @@
                 "filename": "README.md",
                 "title": "Demo Lab Guide",
                 "description": "Demo Lab Guide"
+            },
+            {
+                "number": "10",
+                "filename": "DownloadLinks.md",
+                "title": "Download Links",
+                "description": "You can download files for this workshop here",
+                "labels": {"version": "Self-Guided"}
             }
         ]
     }
