@@ -29,7 +29,15 @@ You will begin your machine learning development journey by importing an Apache 
 
 ### Log into Oracle Machine Learning.
 
-- To support this workshop we have pre-provisioned several Autonomous Data Warehouse instances, and have allocated userids user01 - user80.  Use your assigned login url and userid to sign into Machine Learning.  The password for everyone will be `OraclePTS2018#`.
+- To support this workshop we have pre-provisioned several Autonomous Data Warehouse instances, and have allocated userids user01 - user80.  Use your assigned login url and userid to sign into Machine Learning.  The password for everyone will be `OraclePTS2018#`.  Locate your assigned Machine Learning URL and click on that.
+
+|Machine Learning userid|Machine Learning Login|
+|---|---|
+|user01 - user05|<a href="https://adb.us-ashburn-1.oraclecloud.com/omlusers/login.html?tenant=OCID1.TENANCY.OC1..AAAAAAAA3FF5N7TZN3BUPBW7D5NHFCNUAGNCA5KN7KW4ODBMZMP5FHH6FWLA&database=ORCL&redirect_uri=https://adb.us-ashburn-1.oraclecloud.com/omlusers/api/oauth2/v1/login" target="_blank">Machine Learning Login URL</a>|
+|user06 - user10|<a href="https://adb.us-ashburn-1.oraclecloud.com/omlusers/login.html?tenant=OCID1.TENANCY.OC1..AAAAAAAA3FF5N7TZN3BUPBW7D5NHFCNUAGNCA5KN7KW4ODBMZMP5FHH6FWLA&database=ORCL&redirect_uri=https://adb.us-ashburn-1.oraclecloud.com/omlusers/api/oauth2/v1/login" target="_blank">Machine Learning Login URL</a>|
+|   |   |
+
+- Enter your userid with password `OraclePTS2018#`:
 
   ![](images/ml/002.png)
 

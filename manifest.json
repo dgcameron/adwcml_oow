@@ -12,18 +12,12 @@
             },
             {
                 "number": "20",
-                "filename": "Environments.md",
-                "title": "Environment Assignments",
-                "description": "This is the assignment of users to environments/instances"
-            },
-            {
-                "number": "30",
                 "filename": "ml.md",
                 "title": "Oracle Machine Learning",
                 "description": "Oracle Machine Learning"
             },
             {
-                "number": "40",
+                "number": "30",
                 "filename": "dm.md",
                 "title": "Oracle Data Miner",
                 "description": "Oracle Data Miner"
