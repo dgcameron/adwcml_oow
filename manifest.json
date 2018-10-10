@@ -5,19 +5,25 @@
         "theme": "default",
         "labs": [
             {
-                "number": "05",
+                "number": "10",
                 "filename": "README.md",
                 "title": "Introduction",
                 "description": "Landing Page"
             },
             {
-                "number": "10",
+                "number": "20",
+                "filename": "Environments.md",
+                "title": "Environment Assignments",
+                "description": "This is the assignment of users to environments/instances"
+            },
+            {
+                "number": "30",
                 "filename": "ml.md",
                 "title": "Oracle Machine Learning",
                 "description": "Oracle Machine Learning"
             },
             {
-                "number": "20",
+                "number": "40",
                 "filename": "dm.md",
                 "title": "Oracle Data Miner",
                 "description": "Oracle Data Miner"
