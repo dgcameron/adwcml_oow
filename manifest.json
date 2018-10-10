@@ -6,12 +6,24 @@
         "labs": [
             {
                 "number": "0",
-                "filename": "README.md",
+                "filename": "intro.md",
                 "title": "Demo Lab Guide",
                 "description": "Demo Lab Guide"
             },
             {
                 "number": "10",
+                "filename": "ml.md",
+                "title": "Oracle Machine Learning",
+                "description": "Oracle Machine Learning"
+            },
+            {
+                "number": "20",
+                "filename": "dm.md",
+                "title": "Oracle Data Miner",
+                "description": "Oracle Data Miner"
+            },
+            {
+                "number": "30",
                 "filename": "DownloadLinks.md",
                 "title": "Download Links",
                 "description": "You can download files for this workshop here",
