@@ -1,6 +1,14 @@
-# Oracle Autonomous Data Warehouse Cloud Service For Developers
+# ML 101: Oracle Data Miner/Oracle Autonomous Data Warehouse Cloud Lab Guide
 
-Welcome to the Autonomous Data Warehouse Cloud Service for Developers workshop.  These labs discuss the challenges of Alphaoffice, a fictitious company with real business challenges. Alphaoffice has been challenged to manage large volumes of customer data, and to support marketing projects that have a need to understand potential customer spend habits and ability and interest to purchase Alphaoffice products.  This workshop provides as series of hands on labs that help solve Alphaoffice's challenges and give you a basic understanding of the Autonomous Data Warehouse Cloud Service and how it vastly simplifies management of data and development of applications that access large volumes of data. Lab 100 will introduce you to ADWC and show you how to create a ADWC service. Lab 200 will show how developers and dbas can access billions of rows of data in seconds without needing to design in performance. Lab 300 shows you you can use ADWC's Machine Learning to predict customer good credit given detailed demographic information.  Finally lab 400 shows how you can visualize patterns in data, and run ad-hoc queries to discover patterns in the data.
+Welcome to Oracle Openworld!  This two hour workshop provides an introduction to Oracle Machine Learning and Oracle Data Miner.  This is the lab guides for the hands on part of the workshop.  You have been provided with environments to complete these labs.  However we encourage you to get a **FREE** trial account that comes with ALL the Oracle Cloud Services, and run through a more comprehensive hands on workshop (see below for instructions on how to get a trial account **AFTER** this workshop.
+
+## Navigate to Machine Learning Lab
+
+- Once the setup is complete you can move on to the Machine Learning lab by clicking on the Menu Icon in the upper left corner of the browser window. You're now ready to continue with Lab 100.
+
+![](images/WorkshopMenu.png)
+
+![](images/l100.png)  
 
 ## Acquire an Oracle Cloud Trial or Workshop Account
 
@@ -8,13 +16,8 @@ Please click on the [Free Oracle Cloud Promotion](https://myservices.us.oraclecl
 
 ![](images/trial.png)
 
-## Navigate to Lab 100
+**Suggested followup Autonomous Data Warehouse Workshop, with Oracle Machine Learning:**
 
-- Once the setup is complete you can move on to lab 100 by clicking on the Menu Icon in the upper left corner of the browser window. You're now ready to continue with Lab 100.
-
-![](images/WorkshopMenu.png)
-
-![](images/l100.png)  
-
+https://go.oracle.com/adwc
 
 
