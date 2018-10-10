@@ -6,9 +6,9 @@ Welcome to Oracle Openworld!  This two hour workshop provides an introduction to
 
 - Once the setup is complete you can move on to the Machine Learning lab by clicking on the Menu Icon in the upper left corner of the browser window. You're now ready to continue with Lab 100.
 
-![](images/WorkshopMenu.png)
+![](images/workshopmenu1.png)
 
-![](images/l100.png)  
+![](images/workshopmenu2.png) 
 
 ## Acquire an Oracle Cloud Trial or Workshop Account
 
