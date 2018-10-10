@@ -38,7 +38,7 @@ in this lab you will ...
 
 ### Navigate to Oracle Data Miner Tutorials
 
-- Open a browser and navigate to [Oracle Data Miner Tutorials](https://apexapps.oracle.com/pls/apex/f?p=44785:24:::NO::P24_CONTENT_ID,P24_PREV_PAGE:11925,2):
+- Open a browser and navigate to <a href="https://apexapps.oracle.com/pls/apex/f?p=44785:24:::NO::P24_CONTENT_ID,P24_PREV_PAGE:11925,2" target="_blank">Oracle Data Miner Tutorials</a>
 
   ![](images/dm/006.png)
 
