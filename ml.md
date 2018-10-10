@@ -1,4 +1,4 @@
-  ![](images/001.png)
+  ![](images/ml/001.png)
 
 # Oracle Autonomous Data Warehouse Machine Learning Demo Lab
 
@@ -25,82 +25,82 @@ You will begin your machine learning development journey by importing an Apache 
 
 ![](images/workshopmenu1.png)
 
-![](images/001.1.png)
+![](images/ml/001.1.png)
 
-![](images/001.2.png)
+![](images/ml/001.2.png)
 
 ### Log into Oracle Machine Learning.
 
 - To support this workshop we have pre-provisioned several Autonomous Data Warehouse instances, and have allocated userids user01 - user80.  Use your assigned login url and userid to sign into Machine Learning.  The password for everyone will be `OraclePTS2018#`.
 
-  ![](images/002.png)
+  ![](images/ml/002.png)
 
 - Note that you can run sql statements, run sql scripts (pl/sql blocks), work with Apache Zeppelin Notebooks, schedule notebooks to run at specified times, and review examples of notebooks.  Note that the examples are review only.  To work with the examples you need to first export and then import them to be updatable.  Lets take a look at the examples.  Select `Examples` to review sample content.
 
-  ![](images/003.png)
+  ![](images/ml/003.png)
 
 - Select `Attribute Importance` and review the notebook content.  We will not do anything with this notebook, but will be using the `Attribute Importance` model later on.
 
-  ![](images/004.png)
+  ![](images/ml/004.png)
 
 - When you first open a notebook you need to set the interpreter binding and save this setting.  This is only done once.  Any of the binding settings will work.  This is setting the resources (memory, low, medium, high).  Then scroll down to review the example content.
 
-  ![](images/005.png)
+  ![](images/ml/005.png)
 
-  ![](images/005.1.png)
+  ![](images/ml/005.1.png)
 
 - Select the menu in the upper left and select `Notebooks`.
 
-  ![](images/006.png)
+  ![](images/ml/006.png)
 
-  ![](images/007.png)
+  ![](images/ml/007.png)
 
 - We will be importing a pre-built notebook, and using this for the remainder of the lab.  Select `Import`.
 
-  ![](images/008.png)
+  ![](images/ml/008.png)
 
 - Go to where you downloaded the `Credit Score Predictions.json` file and import the notebook.
 
-  ![](images/009.png)
+  ![](images/ml/009.png)
 
 - Select the `Credit Score Predictions` notebook.
 
-  ![](images/010.png)
+  ![](images/ml/010.png)
 
 - Before you start working with the `Credit Score Predictions` you need to set the interpreter binding.  Click on the gear icon.
 
-  ![](images/011.png)
+  ![](images/ml/011.png)
 
 - Select the one of the interpreter bindings and then Save.
 
-  ![](images/012.png)
+  ![](images/ml/012.png)
 
 The rest of this lab will be done interactively in the notebook.  The following area just screen shots for your convenience.
 
-![](images/013.png)
+![](images/ml/013.png)
 
-![](images/014.png)
+![](images/ml/014.png)
 
-![](images/015.png)
+![](images/ml/015.png)
 
-![](images/016.png)
+![](images/ml/016.png)
 
-![](images/017.png)
+![](images/ml/017.png)
 
-![](images/018.png)
+![](images/ml/018.png)
 
-![](images/019.png)
+![](images/ml/019.png)
 
-![](images/020.png)
+![](images/ml/020.png)
 
-![](images/021.png)
+![](images/ml/021.png)
 
-![](images/022.png)
+![](images/ml/022.png)
 
-![](images/023.png)
+![](images/ml/023.png)
 
-![](images/024.png)
+![](images/ml/024.png)
 
-![](images/025.png)
+![](images/ml/025.png)
 
-![](images/026.png)
+![](images/ml/026.png)
