@@ -5,6 +5,12 @@
         "theme": "default",
         "labs": [
             {
+                "number": "05",
+                "filename": "README.md",
+                "title": "Introduction",
+                "description": "Landing Page"
+            },
+            {
                 "number": "10",
                 "filename": "ml.md",
                 "title": "Oracle Machine Learning",
@@ -15,13 +21,6 @@
                 "filename": "dm.md",
                 "title": "Oracle Data Miner",
                 "description": "Oracle Data Miner"
-            },
-            {
-                "number": "30",
-                "filename": "DownloadLinks.md",
-                "title": "Download Links",
-                "description": "You can download files for this workshop here",
-                "labels": {"version": "Self-Guided"}
             }
         ]
     }

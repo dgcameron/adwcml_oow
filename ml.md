@@ -23,13 +23,9 @@ You will begin your machine learning development journey by importing an Apache 
 
 ### Download your workshop files.  
 
-- Navigate to the menu top right and then select install.zip to download.  Extract this file once you have downloaded it.
+**Click to Download**
 
-![](images/workshopmenu1.png)
-
-![](images/ml/001.1.png)
-
-![](images/ml/001.2.png)
+[install.zip](https://dgcameron.github.io/adwcml_oow/install.zip)
 
 ### Log into Oracle Machine Learning.
 
