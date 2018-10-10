@@ -3,7 +3,7 @@
 # Oracle Autonomous Data Warehouse Machine Learning Demo Lab
 
 ## Introduction
-_Time to Complete: ~45 minutes
+Estimated time to complete: ~45 minutes
 
 In this lab you will assume the persona of Heather, the data scientist/ML expert for Alphaoffice. Heather has spent most of her time over the past couple of years extracting and preparing data for analysis. The large volumes of data need extracting and processing mean she spends most of her time waiting for jobs to finish and very little of her time analyzing the data. Demands from marketing are forcing a new approach whereby the data remains in the data warehouse and is processed there. The alternative cloud solution is more complex, and has no direct out of the box processes to analyze the data in place. She started taking a look at Oracle, and found the simple SQL commands in ADWC are familiar, and execute extremely fast, leveraging all the performance features of the platform. Further once she is done can can apply the learning models to incoming data on the fly, and allow end user analysts to immediately see mining results. This drastically reduces the cycle of data preparation, analysis, and publishing. It also means there is no change to analysis/reporting Data Visualization toolset that users are familiar with.
 
@@ -21,7 +21,9 @@ You will begin your machine learning development journey by importing an Apache 
 
 ## Instructions
 
-### Download your workshop files.  Navigate to the menu top right and then select install.zip to download.  Extract this file once you have downloaded it.
+### Download your workshop files.  
+
+- Navigate to the menu top right and then select install.zip to download.  Extract this file once you have downloaded it.
 
 ![](images/workshopmenu1.png)
 
@@ -49,7 +51,7 @@ You will begin your machine learning development journey by importing an Apache 
 
   ![](images/ml/005.1.png)
 
-- Select the menu in the upper left and select `Notebooks`.
+- Now lets take a look at a pre-built notebook that has more meaningful predictive content.  Select the menu in the upper left and select `Notebooks`.
 
   ![](images/ml/006.png)
 
