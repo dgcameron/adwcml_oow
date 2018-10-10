@@ -1,7 +1,7 @@
 {
     "workshop": {
-        "title": "Autonomous Data Warehouse Machine Learning Demo Lab",
-        "description": "Get hands-on with Oracle Machine Learning",
+        "title": "ML 101: Oracle Data Miner/Oracle Autonomous Data Warehouse Cloud Workshop",
+        "description": "Get hands-on with Oracle Machine Learning and Oracle Data Miner",
         "theme": "default",
         "labs": [
             {
