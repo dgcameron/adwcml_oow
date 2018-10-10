@@ -1,6 +1,6 @@
 # ML 101: Oracle Data Miner/Oracle Autonomous Data Warehouse Cloud Lab Guide
 
-Welcome to Oracle Openworld!  This two hour workshop provides an introduction to Oracle Machine Learning and Oracle Data Miner.  This is the lab guides for the hands on part of the workshop.  You have been provided with environments to complete these labs.  However we encourage you to get a **FREE** trial account that comes with ALL the Oracle Cloud Services, and run through a more comprehensive hands on workshop (see below for instructions on how to get a trial account **AFTER** this workshop.
+Welcome to Oracle Openworld!  This two hour workshop provides an introduction to Oracle Machine Learning and Oracle Data Miner.  This is the lab guide for the hands on part of the workshop.  You have been provided with environments to complete these labs.  However we encourage you to get a **FREE** trial account that comes with ALL the Oracle Cloud Services, and run through a more comprehensive hands on workshop (see below for instructions on how to get a trial account **AFTER** this workshop.
 
 ## Navigate to Machine Learning Lab
 
