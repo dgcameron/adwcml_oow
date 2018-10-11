@@ -36,15 +36,35 @@ in this lab you will ...
 
   ![](images/dm/005.png)
 
+- You will end up here.  Click on the `X Desktop` icon.
+
+  ![](images/dm/006.png)
+
+- You will end up on a desktop that looks like this.
+
+  ![](images/dm/007.png)
+
+- Start SQL Developer by double clicking on the desktop icon.
+
+  ![](images/dm/008.png)
+
+  ![](images/dm/011.png)
+
 ### Navigate to Oracle Data Miner Tutorials
 
 - Open a browser and navigate to <a href="https://apexapps.oracle.com/pls/apex/f?p=44785:24:::NO::P24_CONTENT_ID,P24_PREV_PAGE:11925,2" target="_blank">Oracle Data Miner Tutorials</a>
 
-  ![](images/dm/006.png)
+  ![](images/dm/009.png)
 
-- There are 6 Tutorials.  The first tutorial is already done for you.  Proceed through the remaining tutorials.  You should be able to complete between three and five of the ones listed on this page.
+- There are 6 Tutorials.  The first tutorial is already done for you.  Proceed through the remaining tutorials.  You should be able to complete between three and five of the ones listed on this page.  Start with `Using Oracle Data Miner 17.2` and then move on to the others.
   - Using Oracle Data Miner 17.2
   - Star Schema Mining Using Oracle Data Miner 4.1
   - Text Mining with an EM Clustering Model Using Data Miner 17.2
   - Anomaly Detection (CLAIMS)  See Instructor for assistance
   - Market Basket Analysis (SH.SALES)  See Instructor for assistance
+
+  ![](images/dm/010.png)
+
+- Move on directly to `Create a Data Miner Project`.
+
+  ![](images/dm/012.png)
