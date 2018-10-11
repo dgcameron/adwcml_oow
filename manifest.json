@@ -14,13 +14,13 @@
                 "number": "20",
                 "filename": "ml.md",
                 "title": "Oracle Machine Learning",
-                "description": "Oracle Machine Learning"
+                "description": "Oracle Machine Learning Lab"
             },
             {
                 "number": "30",
                 "filename": "dm.md",
                 "title": "Oracle Data Miner",
-                "description": "Oracle Data Miner"
+                "description": "Oracle Data Miner Lab"
             }
         ]
     }
