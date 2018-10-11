@@ -65,6 +65,6 @@ in this lab you will ...
 
   ![](images/dm/010.png)
 
-- Move on directly to `Create a Data Miner Project`.
+- Move on directly to `Create a Data Miner Project`.  There are two projects already - you can ignore these for now.
 
   ![](images/dm/012.png)
