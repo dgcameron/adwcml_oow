@@ -2,14 +2,14 @@
 
 # Oracle Autonomous Data Warehouse Machine Learning Demo Lab
 
-## Introduction
+## **Introduction**
 Estimated time to complete: 1 hour
 
 This tutorial covers the use of Oracle Data Miner to perform data mining against Oracle Database 18c. In this lesson, you examine and solve a data mining business problem by using the Oracle Data Miner graphical user interface (GUI). The Oracle Data Miner GUI is included as an extension of Oracle SQL Developer, version 18.
 
 Oracle SQL Developer is a free graphical tool for database development. With SQL Developer, you can browse database objects, run SQL statements and SQL scripts, and edit and debug PL/SQL statements. Starting with SQL Developer, version 18, you can also access the Oracle Data Miner GUI, which provides a tightly integrated interface to Oracle Data Mining features.
 
-### **Overview**
+## **Overview**
 
 Data mining is the process of extracting useful information from masses of data by extracting patterns and trends from the data. Data mining can be used to solve many kinds of business problems, including:
 - Predict individual behavior, for example, the customers likely to respond to a promotional offer or the customers likely to buy a specific product (Classification)
