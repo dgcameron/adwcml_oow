@@ -80,7 +80,7 @@ You will begin your machine learning development journey by importing an Apache 
 
   ![](images/ml/008.png)
 
-- Go to where you downloaded the `Credit Score Predictions.json` file and import the notebook.
+- Go to where you extracted the `install.7z` file and select all the json files.  We will be primarily working with the `Credit Score Predictions` notebook, but others may be of interest.
 
   ![](images/ml/009.png)
 
@@ -88,7 +88,7 @@ You will begin your machine learning development journey by importing an Apache 
 
   ![](images/ml/010.png)
 
-- Before you start working with the `Credit Score Predictions` you need to set the interpreter binding.  Click on the gear icon.
+- Before you start working with the `Credit Score Predictions` (or any of the others) you need to set the interpreter binding.  Click on the gear icon.
 
   ![](images/ml/011.png)
 
