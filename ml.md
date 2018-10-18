@@ -27,6 +27,12 @@ You will begin your machine learning development journey by importing an Apache 
 
 [install.7z](https://dgcameron.github.io/adwcml_oow/install.7z)
 
+  ![](images/ml/001.1.png)
+
+- Save and extract the files.
+
+  ![](images/ml/001.2.png)
+
 ### Retrieve your login URL.
 
 - To support this workshop we have pre-provisioned several Autonomous Data Warehouse instances, and have allocated userids user01 - user80.  Use your assigned login url and userid to sign into Machine Learning.  The password for everyone will be `OraclePTS2017`.  Locate your assigned Machine Learning URL and click on that.
