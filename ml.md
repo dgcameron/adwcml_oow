@@ -55,7 +55,7 @@ You will begin your machine learning development journey by importing an Apache 
 
 - Enter your userid with password `OraclePTS2017`:
 
-  ![](images/ml/002.png)
+  ![](images/ml/02.png)
 
 - Note that you can run sql statements, run sql scripts (pl/sql blocks), work with Apache Zeppelin Notebooks, schedule notebooks to run at specified times, and review examples of notebooks.  Note that the examples are review only.  To work with the examples you need to first export and then import them to be updatable.  Lets take a look at the examples.  Select `Examples` to review sample content.
 
@@ -65,7 +65,7 @@ You will begin your machine learning development journey by importing an Apache 
 
   ![](images/ml/004.png)
 
-- When you first open a notebook you need to set the interpreter binding and save this setting.  This is only done once.  Any of the binding settings will work.  This is setting the resources (memory, low, medium, high).  Then scroll down to review the example content.
+- When you first open a notebook you need to set the interpreter binding and save this setting.  This is only done once.  Any of the binding settings will work, but be sure to select `OMLXX_low` setting.  This is setting the resources (memory, low, medium, high).  Then scroll down to review the example content.
 
   ![](images/ml/005.png)
 
@@ -93,7 +93,7 @@ You will begin your machine learning development journey by importing an Apache 
 
   ![](images/ml/011.png)
 
-- Select the one of the interpreter bindings and then Save.
+- Select the OMLXX_low interpreter binding and then Save.
 
   ![](images/ml/012.png)
 

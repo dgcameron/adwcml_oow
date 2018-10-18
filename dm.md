@@ -1,6 +1,6 @@
   ![](images/dm/001.png)
 
-# Oracle Autonomous Data Warehouse Machine Learning Demo Lab
+# Oracle Data Miner Lab
 
 ## **Introduction**
 Estimated time to complete: 1 hour
