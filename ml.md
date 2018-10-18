@@ -25,7 +25,7 @@ You will begin your machine learning development journey by importing an Apache 
 
 **Click to Download**
 
-[install.zip](https://dgcameron.github.io/adwcml_oow/install.zip)
+[install.7z](https://dgcameron.github.io/adwcml_oow/install.7z)
 
 ### Retrieve your login URL.
 
