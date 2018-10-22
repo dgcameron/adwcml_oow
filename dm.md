@@ -57,7 +57,7 @@ Note: For the purposes of this tutorial, the "Data and Acquisition" phase has al
 
 ### Log into Remote Global Desktop
 
-- Use the [Remote Global Desktop Login](http://http://dma.oraclepts.nl/) to sign into a desktop that has everything you need for this lab.  Select login and use your assigned userid and password:  
+- Use the [Remote Global Desktop Login](http://dma.oraclepts.nl/) to sign into a desktop that has everything you need for this lab.  Select login and use your assigned userid and password:  
 
   ![](images/dm/002.png)
 
