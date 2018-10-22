@@ -25,7 +25,7 @@ You will begin your machine learning development journey by importing an Apache 
 
 **Click to Download**
 
-[install.7z](https://dgcameron.github.io/adwcml_oow/install.7z)
+[install.zip](https://dgcameron.github.io/adwcml_oow/install.zip)
 
   ![](images/ml/001.1.png)
 
@@ -52,9 +52,7 @@ You will begin your machine learning development journey by importing an Apache 
 
 ### Log into Oracle Machine Learning.
 
-- Enter your userid with password:
-
-  ![](images/ml/02.png)
+- Enter your userid with password.
 
 - Note that you can run sql statements, run sql scripts (pl/sql blocks), work with Apache Zeppelin Notebooks, schedule notebooks to run at specified times, and review examples of notebooks.  Note that the examples are review only.  To work with the examples you need to first export and then import them to be updatable.  Lets take a look at the examples.  Select `Examples` to review sample content.
 
@@ -80,7 +78,7 @@ You will begin your machine learning development journey by importing an Apache 
 
   ![](images/ml/008.png)
 
-- Go to where you extracted the `install.7z` file and select all the json files.  We will be primarily working with the `Credit Score Predictions` notebook, but others may be of interest.
+- Go to where you extracted the `install.zip` file and select all the json files.  We will be primarily working with the `Credit Score Predictions` notebook, but others may be of interest.
 
   ![](images/ml/009.png)
 
