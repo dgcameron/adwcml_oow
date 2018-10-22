@@ -2,12 +2,6 @@
 
 Welcome to Oracle Openworld!  This two hour workshop provides an introduction to Oracle Machine Learning and Oracle Data Miner.  This is the lab guide for the hands on part of the workshop.  You have been provided with environments to complete these labs.  However we encourage you to get a **FREE** trial account that comes with ALL the Oracle Cloud Services, and run through a more comprehensive hands on workshop (see below for instructions on how to get a trial account **AFTER** this workshop.
 
-## Presentation
-
-**Click to Download**
-
-[OOW 2018 Machine Learning HOL Presentation](https://dgcameron.github.io/adwcml_oow/OOW18-ML101-HOL5759.pptx)
-
 ## Navigate to Machine Learning Lab
 
 - Once the setup is complete you can move on to the Machine Learning lab by clicking on the Menu Icon in the upper left corner of the browser window and then selecting Oracle Machine Learning. You're now ready to continue with the Machine Learning Lab.
