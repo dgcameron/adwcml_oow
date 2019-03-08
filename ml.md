@@ -35,7 +35,7 @@ You will begin your machine learning development journey by importing an Apache 
 
 ### Retrieve your login URL.
 
-- To support this workshop we have pre-provisioned several Autonomous Data Warehouse instances, and have allocated userids user01 - user80.  Use your assigned login url and userid to sign into Machine Learning.  The password for everyone will be `OraclePTS2017`.  Locate your assigned Machine Learning URL and click on that.
+- To support this workshop we have pre-provisioned several Autonomous Data Warehouse instances, and have allocated userids user01 - user80.  Use your assigned login url and userid to sign into Machine Learning.  The password for everyone will be `xxxxxx`.  Locate your assigned Machine Learning URL and click on that.
 
 |Machine Learning userid|Machine Learning Login|
 |---|---|
