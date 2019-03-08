@@ -25,7 +25,7 @@ You will begin your machine learning development journey by importing an Apache 
 
 **Click to Download**
 
-[install.zip](https://dgcameron.github.io/adwcml_oow/install.zip)
+[install.7z](https://dgcameron.github.io/adwcml_oow/install.7z)
 
   ![](images/ml/001.1.png)
 
@@ -35,24 +35,31 @@ You will begin your machine learning development journey by importing an Apache 
 
 ### Retrieve your login URL.
 
-- To support this workshop we have pre-provisioned several Autonomous Data Warehouse instances, and have allocated userids user01 - user80.  Use your assigned login url and userid to sign into Machine Learning.  Locate your assigned Machine Learning URL and click on that.
+- To support this workshop we have pre-provisioned several Autonomous Data Warehouse instances, and have allocated userids user01 - user80.  Use your assigned login url and userid to sign into Machine Learning.  The password for everyone will be `OraclePTS2017`.  Locate your assigned Machine Learning URL and click on that.
 
 |Machine Learning userid|Machine Learning Login|
 |---|---|
-|user01 - user05|<a href="https://adwc.eucom-central-1.oraclecloud.com/omlusers/login.html?tenant=OCID1.TENANCY.OC1..AAAAAAAANH7SZ33FSOTVGGJY7VAY5MDCUFXV5YHLVVLJU7WCLOJR5GWQXQ7Q&database=OML1&redirect_uri=https://adwc.eucom-central-1.oraclecloud.com/omlusers/api/oauth2/v1/login" target="_blank">Machine Learning Login URL</a>|
-|user06 - user10|<a href="https://adwc.eucom-central-1.oraclecloud.com/omlusers/login.html?tenant=OCID1.TENANCY.OC1..AAAAAAAANH7SZ33FSOTVGGJY7VAY5MDCUFXV5YHLVVLJU7WCLOJR5GWQXQ7Q&database=OML2&redirect_uri=https://adwc.eucom-central-1.oraclecloud.com/omlusers/api/oauth2/v1/login" target="_blank">Machine Learning Login URL</a>|
-|user11 - user15|<a href="https://adwc.eucom-central-1.oraclecloud.com/omlusers/login.html?tenant=OCID1.TENANCY.OC1..AAAAAAAANH7SZ33FSOTVGGJY7VAY5MDCUFXV5YHLVVLJU7WCLOJR5GWQXQ7Q&database=OML3&redirect_uri=https://adwc.eucom-central-1.oraclecloud.com/omlusers/api/oauth2/v1/login" target="_blank">Machine Learning Login URL</a>|
-|user16 - user20|<a href="https://adwc.eucom-central-1.oraclecloud.com/omlusers/login.html?tenant=OCID1.TENANCY.OC1..AAAAAAAANH7SZ33FSOTVGGJY7VAY5MDCUFXV5YHLVVLJU7WCLOJR5GWQXQ7Q&database=OML4&redirect_uri=https://adwc.eucom-central-1.oraclecloud.com/omlusers/api/oauth2/v1/login" target="_blank">Machine Learning Login URL</a>|
-|user21 - user25|<a href="https://adwc.eucom-central-1.oraclecloud.com/omlusers/login.html?tenant=OCID1.TENANCY.OC1..AAAAAAAANH7SZ33FSOTVGGJY7VAY5MDCUFXV5YHLVVLJU7WCLOJR5GWQXQ7Q&database=OML5&redirect_uri=https://adwc.eucom-central-1.oraclecloud.com/omlusers/api/oauth2/v1/login" target="_blank">Machine Learning Login URL</a>|
-|user26 - user30|<a href="https://adwc.eucom-central-1.oraclecloud.com/omlusers/login.html?tenant=OCID1.TENANCY.OC1..AAAAAAAAENSXRWLLMANQ2E42JALCCZQJRBLLZGJVL23KMXEYYUIAH7BEU2TQ&database=OML11&redirect_uri=https://adwc.eucom-central-1.oraclecloud.com/omlusers/api/oauth2/v1/login" target="_blank">Machine Learning Login URL</a>|
-|user31 - user35|<a href="https://adwc.eucom-central-1.oraclecloud.com/omlusers/login.html?tenant=OCID1.TENANCY.OC1..AAAAAAAAENSXRWLLMANQ2E42JALCCZQJRBLLZGJVL23KMXEYYUIAH7BEU2TQ&database=OML12&redirect_uri=https://adwc.eucom-central-1.oraclecloud.com/omlusers/api/oauth2/v1/login" target="_blank">Machine Learning Login URL</a>|
-|user36 - user40|<a href="https://adwc.eucom-central-1.oraclecloud.com/omlusers/login.html?tenant=OCID1.TENANCY.OC1..AAAAAAAAENSXRWLLMANQ2E42JALCCZQJRBLLZGJVL23KMXEYYUIAH7BEU2TQ&database=OML13&redirect_uri=https://adwc.eucom-central-1.oraclecloud.com/omlusers/api/oauth2/v1/login" target="_blank">Machine Learning Login URL</a>|
-|user41 - user45|<a href="https://adwc.eucom-central-1.oraclecloud.com/omlusers/login.html?tenant=OCID1.TENANCY.OC1..AAAAAAAAENSXRWLLMANQ2E42JALCCZQJRBLLZGJVL23KMXEYYUIAH7BEU2TQ&database=OML14&redirect_uri=https://adwc.eucom-central-1.oraclecloud.com/omlusers/api/oauth2/v1/login" target="_blank">Machine Learning Login URL</a>|
-|user46 - user50|<a href="https://adwc.eucom-central-1.oraclecloud.com/omlusers/login.html?tenant=OCID1.TENANCY.OC1..AAAAAAAAENSXRWLLMANQ2E42JALCCZQJRBLLZGJVL23KMXEYYUIAH7BEU2TQ&database=OML15&redirect_uri=https://adwc.eucom-central-1.oraclecloud.com/omlusers/api/oauth2/v1/login" target="_blank">Machine Learning Login URL</a>|
+|user01 - user05|<a href="https://adb.us-phoenix-1.oraclecloud.com/omlusers/login.html?tenant=OCID1.TENANCY.OC1..AAAAAAAANH7SZ33FSOTVGGJY7VAY5MDCUFXV5YHLVVLJU7WCLOJR5GWQXQ7Q&database=OML1&redirect_uri=https://adb.us-phoenix-1.oraclecloud.com/omlusers/api/oauth2/v1/login" target="_blank">Machine Learning Login URL</a>|
+|user06 - user10|<a href="https://adb.us-phoenix-1.oraclecloud.com/omlusers/login.html?tenant=OCID1.TENANCY.OC1..AAAAAAAANH7SZ33FSOTVGGJY7VAY5MDCUFXV5YHLVVLJU7WCLOJR5GWQXQ7Q&database=OML2&redirect_uri=https://adb.us-phoenix-1.oraclecloud.com/omlusers/api/oauth2/v1/login" target="_blank">Machine Learning Login URL</a>|
+|user11 - user15|<a href="https://adb.us-phoenix-1.oraclecloud.com/omlusers/login.html?tenant=OCID1.TENANCY.OC1..AAAAAAAANH7SZ33FSOTVGGJY7VAY5MDCUFXV5YHLVVLJU7WCLOJR5GWQXQ7Q&database=OML3&redirect_uri=https://adb.us-phoenix-1.oraclecloud.com/omlusers/api/oauth2/v1/login" target="_blank">Machine Learning Login URL</a>|
+|user16 - user20|<a href="https://adb.us-phoenix-1.oraclecloud.com/omlusers/login.html?tenant=OCID1.TENANCY.OC1..AAAAAAAANH7SZ33FSOTVGGJY7VAY5MDCUFXV5YHLVVLJU7WCLOJR5GWQXQ7Q&database=OML4&redirect_uri=https://adb.us-phoenix-1.oraclecloud.com/omlusers/api/oauth2/v1/login" target="_blank">Machine Learning Login URL</a>|
+|user21 - user25|<a href="https://adb.us-phoenix-1.oraclecloud.com/omlusers/login.html?tenant=OCID1.TENANCY.OC1..AAAAAAAANH7SZ33FSOTVGGJY7VAY5MDCUFXV5YHLVVLJU7WCLOJR5GWQXQ7Q&database=OML5&redirect_uri=https://adb.us-phoenix-1.oraclecloud.com/omlusers/api/oauth2/v1/login" target="_blank">Machine Learning Login URL</a>|
+|user26 - user30|<a href="https://adb.us-phoenix-1.oraclecloud.com/omlusers/login.html?tenant=OCID1.TENANCY.OC1..AAAAAAAANH7SZ33FSOTVGGJY7VAY5MDCUFXV5YHLVVLJU7WCLOJR5GWQXQ7Q&database=OML6&redirect_uri=https://adb.us-phoenix-1.oraclecloud.com/omlusers/api/oauth2/v1/login" target="_blank">Machine Learning Login URL</a>|
+|user31 - user35|<a href="https://adb.us-phoenix-1.oraclecloud.com/omlusers/login.html?tenant=OCID1.TENANCY.OC1..AAAAAAAANH7SZ33FSOTVGGJY7VAY5MDCUFXV5YHLVVLJU7WCLOJR5GWQXQ7Q&database=OML7&redirect_uri=https://adb.us-phoenix-1.oraclecloud.com/omlusers/api/oauth2/v1/login" target="_blank">Machine Learning Login URL</a>|
+|user36 - user40|<a href="https://adb.us-phoenix-1.oraclecloud.com/omlusers/login.html?tenant=OCID1.TENANCY.OC1..AAAAAAAANH7SZ33FSOTVGGJY7VAY5MDCUFXV5YHLVVLJU7WCLOJR5GWQXQ7Q&database=OML8&redirect_uri=https://adb.us-phoenix-1.oraclecloud.com/omlusers/api/oauth2/v1/login" target="_blank">Machine Learning Login URL</a>|
+|user41 - user45|<a href="https://adb.us-phoenix-1.oraclecloud.com/omlusers/login.html?tenant=OCID1.TENANCY.OC1..AAAAAAAANH7SZ33FSOTVGGJY7VAY5MDCUFXV5YHLVVLJU7WCLOJR5GWQXQ7Q&database=OML9&redirect_uri=https://adb.us-phoenix-1.oraclecloud.com/omlusers/api/oauth2/v1/login" target="_blank">Machine Learning Login URL</a>|
+|user46 - user50|<a href="https://adb.us-phoenix-1.oraclecloud.com/omlusers/login.html?tenant=OCID1.TENANCY.OC1..AAAAAAAANH7SZ33FSOTVGGJY7VAY5MDCUFXV5YHLVVLJU7WCLOJR5GWQXQ7Q&database=OML10&redirect_uri=https://adb.us-phoenix-1.oraclecloud.com/omlusers/api/oauth2/v1/login" target="_blank">Machine Learning Login URL</a>|
+|user51 - user55|<a href="https://adb.us-phoenix-1.oraclecloud.com/omlusers/login.html?tenant=OCID1.TENANCY.OC1..AAAAAAAANH7SZ33FSOTVGGJY7VAY5MDCUFXV5YHLVVLJU7WCLOJR5GWQXQ7Q&database=OML11&redirect_uri=https://adb.us-phoenix-1.oraclecloud.com/omlusers/api/oauth2/v1/login" target="_blank">Machine Learning Login URL</a>|
+|user56 - user60|<a href="https://adb.us-phoenix-1.oraclecloud.com/omlusers/login.html?tenant=OCID1.TENANCY.OC1..AAAAAAAANH7SZ33FSOTVGGJY7VAY5MDCUFXV5YHLVVLJU7WCLOJR5GWQXQ7Q&database=OML12&redirect_uri=https://adb.us-phoenix-1.oraclecloud.com/omlusers/api/oauth2/v1/login" target="_blank">Machine Learning Login URL</a>|
+|user61 - user65|<a href="https://adb.us-phoenix-1.oraclecloud.com/omlusers/login.html?tenant=OCID1.TENANCY.OC1..AAAAAAAANH7SZ33FSOTVGGJY7VAY5MDCUFXV5YHLVVLJU7WCLOJR5GWQXQ7Q&database=OML13&redirect_uri=https://adb.us-phoenix-1.oraclecloud.com/omlusers/api/oauth2/v1/login" target="_blank">Machine Learning Login URL</a>|
+|user66 - user70|<a href="https://adb.us-phoenix-1.oraclecloud.com/omlusers/login.html?tenant=OCID1.TENANCY.OC1..AAAAAAAANH7SZ33FSOTVGGJY7VAY5MDCUFXV5YHLVVLJU7WCLOJR5GWQXQ7Q&database=OML14&redirect_uri=https://adb.us-phoenix-1.oraclecloud.com/omlusers/api/oauth2/v1/login" target="_blank">Machine Learning Login URL</a>|
+|user71 - user75|<a href="https://adb.us-phoenix-1.oraclecloud.com/omlusers/login.html?tenant=OCID1.TENANCY.OC1..AAAAAAAANH7SZ33FSOTVGGJY7VAY5MDCUFXV5YHLVVLJU7WCLOJR5GWQXQ7Q&database=OML15&redirect_uri=https://adb.us-phoenix-1.oraclecloud.com/omlusers/api/oauth2/v1/login" target="_blank">Machine Learning Login URL</a>|
 
 ### Log into Oracle Machine Learning.
 
-- Enter your userid with password.
+- Enter your userid with password `xxxxxxx`:
+
+  ![](images/ml/02.png)
 
 - Note that you can run sql statements, run sql scripts (pl/sql blocks), work with Apache Zeppelin Notebooks, schedule notebooks to run at specified times, and review examples of notebooks.  Note that the examples are review only.  To work with the examples you need to first export and then import them to be updatable.  Lets take a look at the examples.  Select `Examples` to review sample content.
 
@@ -78,7 +85,7 @@ You will begin your machine learning development journey by importing an Apache 
 
   ![](images/ml/008.png)
 
-- Go to where you extracted the `install.zip` file and select all the json files.  We will be primarily working with the `Credit Score Predictions` notebook, but others may be of interest.
+- Go to where you extracted the `install.7z` file and select all the json files.  We will be primarily working with the `Credit Score Predictions` notebook, but others may be of interest.
 
   ![](images/ml/009.png)
 
