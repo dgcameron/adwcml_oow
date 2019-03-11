@@ -6,7 +6,7 @@ Welcome to Analytics and Data Summit!  This two hour workshop provides an introd
 
 **Click to Download**
 
-[OOW 2018 Machine Learning HOL Presentation](https://dgcameron.github.io/adwcml_oow/OOW18-ML101-HOL5759.pptx)
+[Analytics Summit Machine Learning HOL Presentation](https://drive.google.com/open?id=1HPonyhGfXLRTkPfkw1Ry4Hp5jw3--DUO)
 
 ## Navigate to Machine Learning Lab
 

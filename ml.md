@@ -57,9 +57,7 @@ You will begin your machine learning development journey by importing an Apache 
 
 ### Log into Oracle Machine Learning.
 
-- Enter your userid with password `xxxxxxx`:
-
-  ![](images/ml/02.png)
+- Enter your userid with password `xxxxxxx`.
 
 - Note that you can run sql statements, run sql scripts (pl/sql blocks), work with Apache Zeppelin Notebooks, schedule notebooks to run at specified times, and review examples of notebooks.  Note that the examples are review only.  To work with the examples you need to first export and then import them to be updatable.  Lets take a look at the examples.  Select `Examples` to review sample content.
 
