@@ -1,6 +1,6 @@
 {
     "workshop": {
-        "title": "ML 101: Oracle Data Miner/Oracle Autonomous Data Warehouse Cloud Workshop",
+        "title": "HOL: Machine Learning 202: Oracle Autonomous Database & Machine Learning Notebooks",
         "description": "Get hands-on with Oracle Machine Learning and Oracle Data Miner",
         "theme": "default",
         "labs": [
