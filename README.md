@@ -1,4 +1,4 @@
-# ML 101: Oracle Data Miner/Oracle Autonomous Data Warehouse Cloud Lab Guide
+# HOL: Machine Learning 202:  Oracle Autonomous Database & Machine Learning Notebooks
 
 Welcome to Analytics and Data Summit!  This two hour workshop provides an introduction to Oracle Machine Learning.  This is the lab guide for the hands on part of the workshop.  You have been provided with environments to complete these labs.  However we encourage you to get a **FREE** trial account that comes with ALL the Oracle Cloud Services, and run through a more comprehensive hands on workshop (see below for instructions on how to get a trial account **AFTER** this workshop.
 
