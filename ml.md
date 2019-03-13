@@ -20,7 +20,7 @@ You will begin your machine learning development journey by importing an Apache 
 - Predict credit worthiness of new customers
 
 ## Instructions
-s
+
 ### Download your workshop files.  
 
 **Click to Download**
