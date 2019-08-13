@@ -1,6 +1,6 @@
-# HOL: Machine Learning 202:  Oracle Autonomous Database & Machine Learning Notebooks
+# HOL4721 Hands-on Lab Oracle Machine Learning
 
-Welcome to Analytics and Data Summit!  This two hour workshop provides an introduction to Oracle Machine Learning.  This is the lab guide for the hands on part of the workshop.  You have been provided with environments to complete these labs.  However we encourage you to get a **FREE** trial account that comes with ALL the Oracle Cloud Services, and run through a more comprehensive hands on workshop (see below for instructions on how to get a trial account **AFTER** this workshop.
+Welcome to the OOW'19 HOL4721 Hands-on Lab Oracle Machine Learning. This one hour workshop provides an introduction to Oracle Machine Learning in the Autonomous Database.  However we encourage you to get a **FREE** trial account that comes with ALL the Oracle Cloud Services, and run through a more comprehensive hands on workshop (see below for instructions on how to get a trial account **AFTER** this workshop.
 
 ## Presentation
 
