@@ -25,7 +25,7 @@ You will begin your machine learning development journey by importing an Apache 
 
 **Click to Download**
 
-[install.zip](https://dgcameron.github.io/adwcml_oow/install.zip)
+[notebooks.zip](https://dgcameron.github.io/adwcml_oow/notebooks.zip)
 
   ![](images/ml/001.1.png)
 
