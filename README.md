@@ -6,7 +6,7 @@ Welcome to the OOW'19 HOL4721 Hands-on Lab Oracle Machine Learning. This one hou
 
 **Click to Download**
 
-[Analytics Summit Machine Learning HOL Presentation](https://drive.google.com/open?id=1HPonyhGfXLRTkPfkw1Ry4Hp5jw3--DUO)
+[Machine Learning HOL Presentation](https://drive.google.com/open?id=1HPonyhGfXLRTkPfkw1Ry4Hp5jw3--DUO)
 
 ## Navigate to Machine Learning Lab
 
