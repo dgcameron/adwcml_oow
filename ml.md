@@ -39,10 +39,10 @@ You will begin your machine learning development journey by importing an Apache 
 
 |Machine Learning userid|Machine Learning Login|
 |---|---|
-|user01 - user15|<a href="https://adb.us-ashburn-1.oraclecloud.com/omlusers/login.html?root=authenticate&tenant=cfhteam1&database=MLADWDB01&redirect_uri=https://adb.us-ashburn-1.oraclecloud.com/omlusers/api/oauth2/v1/login" target="_blank">Machine Learning Login URL</a>|
-|user16 - user30|<a href="https://adb.us-ashburn-1.oraclecloud.com/omlusers/login.html?root=authenticate&tenant=cfhteam1&database=MLADWDB02&redirect_uri=https://adb.us-ashburn-1.oraclecloud.com/omlusers/api/oauth2/v1/login" target="_blank">Machine Learning Login URL</a>|
-|user31 - user45|<a href="https://adb.us-ashburn-1.oraclecloud.com/omlusers/login.html?root=authenticate&tenant=cfhteam1&database=MLADWDB03&redirect_uri=https://adb.us-ashburn-1.oraclecloud.com/omlusers/api/oauth2/v1/login" target="_blank">Machine Learning Login URL</a>|
-|user46 - user60|<a href="https://adb.us-ashburn-1.oraclecloud.com/omlusers/login.html?root=authenticate&tenant=cfhteam1&database=MLADWDB04&redirect_uri=https://adb.us-ashburn-1.oraclecloud.com/omlusers/api/oauth2/v1/login" target="_blank">Machine Learning Login URL</a>|
+|user01 - user15|<a href="https://bit.ly/2lEarO4" target="_blank">Machine Learning Login URL</a>|
+|user16 - user30|<a href="https://bit.ly/2kcdBZc" target="_blank">Machine Learning Login URL</a>|
+|user31 - user45|<a href="https://bit.ly/2lKh9Co" target="_blank">Machine Learning Login URL</a>|
+|user46 - user60|<a href="https://bit.ly/2lJ2tUc" target="_blank">Machine Learning Login URL</a>|
 
 ### Log into Oracle Machine Learning.
 
